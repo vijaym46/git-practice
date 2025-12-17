@@ -1,2 +1,2 @@
-git practice
-I am adding this from dev branch
+## git practice
+- I am adding this `from dev branch`
